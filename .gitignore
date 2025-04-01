@@ -1,0 +1,16 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Streamlit state
+.streamlit/
+
+# System files
+.DS_Store
+
+# Logs or checkpoints
+*.log
+*.checkpoint
